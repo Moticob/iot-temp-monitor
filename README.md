@@ -16,11 +16,6 @@ This project implements an IoT-based temperature monitoring system using an ESP3
 - matplotlib
 - Arduino IDE or PlatformIO (for ESP32)
 
-- Python 3 <i class="fab fa-python"></i>
-- Flask <i class="fab fa-flask"></i>
-- matplotlib <i class="fab fa-chart-line"></i>
-- Arduino IDE or PlatformIO (for ESP32) <i class="fab fa-arduino"></i>
-
 ## Setup and Installation
 
 ### Microcontroller (ESP32)
